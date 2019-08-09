@@ -1,4 +1,4 @@
-FROM php:7.2-cli
+FROM php:7.2-apache
 
 LABEL maintainer "arata_takeuchi<arata_takeuchi@scala-com.jp>"
 
